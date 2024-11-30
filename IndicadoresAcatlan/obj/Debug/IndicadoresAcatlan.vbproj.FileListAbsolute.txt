@@ -1,0 +1,5 @@
+C:\Users\sofii\source\repos\IndicadoresAcatlan\IndicadoresAcatlan\obj\Debug\IndicadoresAcatlan.vbproj.AssemblyReference.cache
+C:\Users\sofii\source\repos\IndicadoresAcatlan\IndicadoresAcatlan\obj\Debug\IndicadoresAcatlan.Form1.resources
+C:\Users\sofii\source\repos\IndicadoresAcatlan\IndicadoresAcatlan\obj\Debug\IndicadoresAcatlan.Resources.resources
+C:\Users\sofii\source\repos\IndicadoresAcatlan\IndicadoresAcatlan\obj\Debug\IndicadoresAcatlan.vbproj.GenerateResource.cache
+C:\Users\sofii\source\repos\IndicadoresAcatlan\IndicadoresAcatlan\obj\Debug\IndicadoresAcatlan.vbproj.CoreCompileInputs.cache
